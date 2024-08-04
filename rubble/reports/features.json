@@ -1,0 +1,85 @@
+{
+    "wall_time": 38.76592491300107,
+    "image_reports": [
+        {
+            "image": "20240802_210211.jpg",
+            "num_features": 5084,
+            "wall_time": 1.9815723369974876
+        },
+        {
+            "image": "20240802_210226.jpg",
+            "num_features": 5009,
+            "wall_time": 1.9806297690010979
+        },
+        {
+            "image": "20240802_210258.jpg",
+            "num_features": 4990,
+            "wall_time": 1.9626513749972219
+        },
+        {
+            "image": "20240802_210237.jpg",
+            "num_features": 4990,
+            "wall_time": 2.1622376930026803
+        },
+        {
+            "image": "20240802_210217.jpg",
+            "num_features": 5088,
+            "wall_time": 2.0265481759997783
+        },
+        {
+            "image": "20240802_210255.jpg",
+            "num_features": 5010,
+            "wall_time": 2.1366329880038393
+        },
+        {
+            "image": "20240802_210234.jpg",
+            "num_features": 5059,
+            "wall_time": 2.1510300779991667
+        },
+        {
+            "image": "20240802_210222.jpg",
+            "num_features": 4911,
+            "wall_time": 2.0711557769973297
+        },
+        {
+            "image": "20240802_210218.jpg",
+            "num_features": 5045,
+            "wall_time": 2.098250121998717
+        },
+        {
+            "image": "20240802_210307.jpg",
+            "num_features": 4997,
+            "wall_time": 2.1016690420001396
+        },
+        {
+            "image": "20240802_210252.jpg",
+            "num_features": 5038,
+            "wall_time": 2.1364913119978155
+        },
+        {
+            "image": "20240802_210212.jpg",
+            "num_features": 5010,
+            "wall_time": 2.124820875003934
+        },
+        {
+            "image": "20240802_210244.jpg",
+            "num_features": 4977,
+            "wall_time": 2.126548691005155
+        },
+        {
+            "image": "20240802_210250.jpg",
+            "num_features": 5032,
+            "wall_time": 2.1150460349963396
+        },
+        {
+            "image": "20240802_210214.jpg",
+            "num_features": 5012,
+            "wall_time": 2.1276746919975267
+        },
+        {
+            "image": "20240802_210248.jpg",
+            "num_features": 5092,
+            "wall_time": 2.271195979999902
+        }
+    ]
+}

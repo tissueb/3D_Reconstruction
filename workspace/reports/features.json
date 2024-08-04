@@ -1,0 +1,80 @@
+{
+    "wall_time": 4.4910900057293475,
+    "image_reports": [
+        {
+            "image": "20240726_152846.jpg",
+            "num_features": 4799,
+            "wall_time": 2.3077179403044283
+        },
+        {
+            "image": "20240726_152957.jpg",
+            "num_features": 4908,
+            "wall_time": 2.166282811202109
+        },
+        {
+            "image": "20240726_152855.jpg",
+            "num_features": 4900,
+            "wall_time": 2.399827281013131
+        },
+        {
+            "image": "20240726_152904.jpg",
+            "num_features": 4674,
+            "wall_time": 2.017773585394025
+        },
+        {
+            "image": "20240726_152835.jpg",
+            "num_features": 5002,
+            "wall_time": 2.343678975943476
+        },
+        {
+            "image": "20240726_152900.jpg",
+            "num_features": 5056,
+            "wall_time": 2.2628706130199134
+        },
+        {
+            "image": "20240726_152940.jpg",
+            "num_features": 4442,
+            "wall_time": 2.294241433031857
+        },
+        {
+            "image": "20240726_152920.jpg",
+            "num_features": 4577,
+            "wall_time": 2.0807890431024134
+        },
+        {
+            "image": "20240726_152902.jpg",
+            "num_features": 5016,
+            "wall_time": 2.235075379256159
+        },
+        {
+            "image": "20240726_153006.jpg",
+            "num_features": 4710,
+            "wall_time": 2.207303546834737
+        },
+        {
+            "image": "20240726_152828.jpg",
+            "num_features": 5021,
+            "wall_time": 2.2583189881406724
+        },
+        {
+            "image": "20240726_152906.jpg",
+            "num_features": 4662,
+            "wall_time": 2.2173271011561155
+        },
+        {
+            "image": "20240726_153001.jpg",
+            "num_features": 4909,
+            "wall_time": 2.2797345519065857
+        },
+        {
+            "image": "20240726_152839.jpg",
+            "num_features": 5074,
+            "wall_time": 2.0970360869541764
+        },
+        {
+            "image": "20240726_152909.jpg",
+            "num_features": 5023,
+            "wall_time": 2.1279589370824397
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "make": "samsung",
+    "model": "SM-G991U1",
+    "width": 4032,
+    "height": 3024,
+    "projection_type": "perspective",
+    "focal_ratio": 0.7222222222222222,
+    "orientation": 1,
+    "capture_time": 0.0,
+    "gps": {
+        "altitude": 0.0
+    },
+    "camera": "v2 samsung sm-g991u1 4032 3024 perspective 0.7222"
+}
